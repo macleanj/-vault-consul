@@ -1,2 +1,7 @@
 data
 logs
+consul
+consul-template
+jq
+*.zip
+secret.txt
